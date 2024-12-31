@@ -89,7 +89,7 @@ Ensure you have the following installed:
 
 ## Example Screenshot
 
-![Chat App Screenshot](https://via.placeholder.com/800x600?text=Chat+Application+Screenshot)
+![Chat App Screenshot](appScreenshot.png)
 
 ---
 
